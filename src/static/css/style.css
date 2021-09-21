@@ -1,0 +1,53 @@
+body{
+    background-color: #118AB2;
+    padding: 0;
+    margin: 0;
+}
+.logo{
+    max-width: 100px;
+    max-height: 100px;
+}
+.foto{
+    position: relative;
+    max-width: 600px;
+    max-height: 600x;
+    left: 30%;
+}
+.barra{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    float: right;
+    width: 100%;
+    background-color: #2B2D42;
+    display: flex;
+    line-height: 80px;
+    font-family: Arial,sans-serif;
+    
+}
+.barra a{
+    text-decoration: none;
+    left: 890px;
+    padding: 0 15px;
+    color:#06D6A0;
+    position: relative;
+    font-size: 15pt;
+    transition: 1s;
+
+    
+}
+a:hover{
+    color: yellowgreen;
+}
+h1{
+    position: relative;
+    font-family: arial;
+    left: 10px;
+    text-decoration: underline;
+    text-align: center;
+}
+p{
+    text-align: center; 
+    font-family: arial;
+    font-size: 20px;
+}

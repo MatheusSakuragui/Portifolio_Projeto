@@ -1,0 +1,67 @@
+body{
+    background-color: #118AB2;
+    padding: 0;
+    margin: 0;
+}
+.logo{
+    max-width: 100px;
+    max-height: 100px;
+}
+.barra{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    float: right;
+    width: 100%;
+    background-color: #2B2D42;
+    display: flex;
+    line-height: 80px;
+    font-family: Arial,sans-serif;
+    
+}
+.barra a{
+    text-decoration: none;
+    left: 890px;
+    padding: 0 15px;
+    color:#06D6A0;
+    position: relative;
+    font-size: 15pt;
+    transition: 1s;
+
+    
+}
+a:hover{
+    color: yellowgreen;
+}
+.card{
+    position: relative;
+    background-color: #2B2D42;
+    top: 200px;
+    height: 1000px;
+    width: 800px;
+    left: 20%;
+    border-radius: 80px;
+}
+.titulo{
+    position: relative;
+    left:  50px;
+    text-align: center;
+}
+.titulo h3{
+    position: relative;
+    max-height: 100px;
+    max-width: 500px;
+    background-color: #2A9D8F;
+    border-radius: 20px;
+    font-family: arial;
+    color: #ffff;
+    font-size: 25px;
+    font-weight: normal;
+}
+.titulo p{
+    position: relative;
+    color: #ffff;
+    font-size: 25px;
+    width: 700px;
+    text-align: justify;
+}
