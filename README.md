@@ -15,8 +15,11 @@
         &nbsp&nbsp1.2 Informações educacionais; <br><br>
         &nbsp&nbsp1.3 Outras informações pertinentes (interesses, etc.). <br><br>
     2.Portfólio (trabalhos desenvolvidos ou que pretende desenvolver); <br><br>
-    3.Outras informações relevantes ou de interesse do autor/proprietário. <br>    
-  </p>
+    3.Outras informações relevantes ou de interesse do autor/proprietário. <br>  
+  
+  <h4>:heavy_exclamation_mark:Status do Projeto</h4>
+  <h5>:chart_with_upwards_trend:Em andamento.</h5>
+
   <h3>:desktop_computer:Tecnologias e Ferramentas Utilizadas</h3>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,7 +31,7 @@
 <h3>:film_strip:Video da primeira entrega</h3>
 <p>
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><br>
-  https://www.youtube.com/watch?v=4E7LvJnNegA
+  :link:https://www.youtube.com/watch?v=4E7LvJnNegA
 </p>
 
   
