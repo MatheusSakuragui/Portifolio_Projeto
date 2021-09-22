@@ -31,7 +31,7 @@
 <h3>:film_strip:Video da primeira entrega</h3>
 <p>
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><br>
-  :link:https://www.youtube.com/watch?v=4E7LvJnNegA
+  :link:https://youtu.be/ffu_HD00-iI
 </p>
 
   
