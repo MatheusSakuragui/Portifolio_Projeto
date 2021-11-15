@@ -33,5 +33,10 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><br>
   :link:https://youtu.be/ffu_HD00-iI
 </p>
+<h3>:film_strip:Video da segunda entrega</h3>
+<p>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><br>
+  :link:https://youtu.be/lwEq03NhjX4
+</p>
 
   
