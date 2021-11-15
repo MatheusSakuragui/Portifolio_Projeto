@@ -15,6 +15,12 @@ body{
     max-height: 600px;
     left: 400px;
 }
+.mobile{
+    display: none;
+}
+.fas.fa-bars.fa-2x{
+    display: none;
+}
 .barra{
     margin: 0px;
     padding: 0px;
@@ -56,12 +62,34 @@ p{
 
 
 @media screen and (max-width: 576px){
+.fas.fa-bars.fa-2x{
+    display: block;
+    position: relative;
+    background: none;
+    border: 0;
+    color: #06D6A0;
+    left: 250px;
+}
+.mobile{
+    display: none;
+    width: 100%;
+    background-color: #2B2D42; 
+    
+}
+.mobile a {   
+    text-decoration: none;
+    color: #2A9D8F;
+    margin-left: 35px;
+}
+.desktop{
+    display: none;
+}
+#nav.ativo .mobile{
+    display: block;
+}
 .logo{
     max-width: 50px;
     max-height: 50px;
-}
-a{
-    display: none;
 }
 
 .barra{

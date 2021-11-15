@@ -9,6 +9,12 @@ body{
     max-height: 80px;
     border-radius: 100px;
 }
+.mobile{
+    display: none;
+}
+.fas.fa-bars.fa-2x{
+    display: none;
+}
 .barra{
     margin: 0px;
     padding: 0px;
@@ -172,8 +178,31 @@ a:hover{
 }
 
 @media screen and (max-width: 576px){
-a{
+.fas.fa-bars.fa-2x{
+    display: block;
+    position: relative;
+    background: none;
+    border: 0;
+    color: #06D6A0;
+    left: 250px;
+}
+.mobile{
     display: none;
+    width: 100%;
+    background-color: #2B2D42; 
+
+}
+.mobile a {
+
+    text-decoration: none;
+    color: #2A9D8F;
+    margin-left: 35px;
+}
+.desktop{
+    display: none;
+}
+#nav.ativo .mobile{
+    display: block;
 }
 .logo{
     max-width: 50px;
